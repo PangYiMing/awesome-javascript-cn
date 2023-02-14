@@ -37,7 +37,7 @@
   - [时间轴](#时间轴)
   - [电子表格](#电子表格)
   - [编辑器](#编辑器)
-  - [文档解析](#文档解析)
+  - [文档处理](#文档处理)
   - [文档](#文档)
   - [文件](#文件)
   - [函数式编程](#函数式编程)
@@ -96,6 +96,8 @@
   - [大杂烩](#大杂烩)
     - [其他 Awesome 前端资源系列：](#其他-awesome-前端资源系列)
     - [前端应该常用的网站](#前端应该常用的网站)
+- [资源](#resources)
+    - [有影响力的书](#influential-books)
 
 * * *
 
@@ -378,9 +380,9 @@ Web 数据可视化工具
 * [popline](https://github.com/kenshin54/popline)：Popline 是一款 HTML5 富文本工具栏。
 * [Summernote](https://github.com/summernote/summernote)：一个极简的所见即所得编辑器。
 
-## 文档解析
-[markdown-it](https://github.com/markdown-it/markdown-it) 成熟度高，社区丰富的markdown解析器
-[remark-slate-transformer](https://github.com/inokawa/remark-slate-transformer) 小巧的markdown解析库
+## 文档处理
+* [markdown-it](https://github.com/markdown-it/markdown-it) 成熟度高，社区丰富的markdown解析器
+* [remark-slate-transformer](https://github.com/inokawa/remark-slate-transformer) 小巧的markdown解析库
 
 ## 文档
 
