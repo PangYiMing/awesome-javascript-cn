@@ -11,6 +11,7 @@
 
 注: 名单不分排名，不定期补充更新
 
+
 * * *
 
 ### 目录
@@ -96,8 +97,6 @@
   - [大杂烩](#大杂烩)
     - [其他 Awesome 前端资源系列：](#其他-awesome-前端资源系列)
     - [前端应该常用的网站](#前端应该常用的网站)
-- [资源](#resources)
-    - [有影响力的书](#influential-books)
 
 * * *
 
@@ -383,6 +382,16 @@ Web 数据可视化工具
 ## 文档处理
 * [markdown-it](https://github.com/markdown-it/markdown-it) 成熟度高，社区丰富的markdown解析器
 * [remark-slate-transformer](https://github.com/inokawa/remark-slate-transformer) 小巧的markdown解析库
+* [turndown](https://github.com/mixmark-io/turndown)使用 JavaScript 将 HTML 转换为 Markdown
+* [html2text](https://github.com/aaronsw/html2text) 将 HTML 转换为 Markdown 格式的文本,使用人数较少
+* [html-to-react-components](https://github.com/roman01la/html-to-react-components) 将 HTML 页面转换为 React 组件
+* [jquery-serialize-object](https://github.com/macek/jquery-serialize-object)将 HTML 表单转换为 JavaScript 对象
+* [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) 将 HTML 页面/文件转换为具有内联样式的 HTML 页面/文件。
+* [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) 将 PDF 转换为 HTML 而不会丢失文本或格式。[新库地址](https://github.com/pdf2htmlEX/pdf2htmlEX)
+* [mammoth](https://github.com/mwilliamson/mammoth.js) 将 Word 文档（.docx 文件）转换为 HTML
+* [html-docx-js](https://github.com/evidenceprime/html-docx-js) 在浏览器中将 HTML 文档转换为 DOCX
+* [PPTX2HTML](https://github.com/g21589/PPTX2HTML) 使用纯 javascript 将 pptx 文件转换为 HTML
+
 
 ## 文档
 
